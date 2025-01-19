@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\foreach loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C1BA5A9-DDC3-4929-927A-D0946F06F3DE}|foreach loop\\foreach loop.csproj|c:\\users\\lenovo\\source\\repos\\foreach loop\\foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C1BA5A9-DDC3-4929-927A-D0946F06F3DE}|foreach loop\\foreach loop.csproj|solutionrelative:foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\foreach loop\\foreach loop\\Program.cs",
+              "RelativeDocumentMoniker": "foreach loop\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\foreach loop\\foreach loop\\Program.cs",
+              "RelativeToolTip": "foreach loop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:41:24.338Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\kepo1\kepo1\bin\Debug\net8.0\kepo1.exe
+C:\Users\LENOVO\source\repos\kepo1\kepo1\bin\Debug\net8.0\kepo1.deps.json
+C:\Users\LENOVO\source\repos\kepo1\kepo1\bin\Debug\net8.0\kepo1.runtimeconfig.json
+C:\Users\LENOVO\source\repos\kepo1\kepo1\bin\Debug\net8.0\kepo1.dll
+C:\Users\LENOVO\source\repos\kepo1\kepo1\bin\Debug\net8.0\kepo1.pdb
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.dll
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\refint\kepo1.dll
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.pdb
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\kepo1.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\kepo1\kepo1\obj\Debug\net8.0\ref\kepo1.dll

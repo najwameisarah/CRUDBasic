@@ -1,0 +1,63 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\DB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9173970-6FBB-4233-8BE3-96E112311A61}|DB\\DB.csproj|c:\\users\\lenovo\\source\\repos\\db\\db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C9173970-6FBB-4233-8BE3-96E112311A61}|DB\\DB.csproj|solutionrelative:db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9173970-6FBB-4233-8BE3-96E112311A61}|DB\\DB.csproj|c:\\users\\lenovo\\source\\repos\\db\\db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9173970-6FBB-4233-8BE3-96E112311A61}|DB\\DB.csproj|solutionrelative:db\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DB\\DB\\Form1.cs",
+              "RelativeDocumentMoniker": "DB\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DB\\DB\\Form1.cs",
+              "RelativeToolTip": "DB\\Form1.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:05:54.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\DB\\DB\\Form1.cs",
+              "RelativeDocumentMoniker": "DB\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\DB\\DB\\Form1.cs [Design]",
+              "RelativeToolTip": "DB\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:05:00.851Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

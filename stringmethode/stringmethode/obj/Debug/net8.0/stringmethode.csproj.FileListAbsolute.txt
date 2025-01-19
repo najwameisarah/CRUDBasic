@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\bin\Debug\net8.0\stringmethode.exe
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\bin\Debug\net8.0\stringmethode.deps.json
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\bin\Debug\net8.0\stringmethode.runtimeconfig.json
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\bin\Debug\net8.0\stringmethode.dll
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\bin\Debug\net8.0\stringmethode.pdb
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.dll
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\refint\stringmethode.dll
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.pdb
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\stringmethode.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\stringmethode\stringmethode\obj\Debug\net8.0\ref\stringmethode.dll

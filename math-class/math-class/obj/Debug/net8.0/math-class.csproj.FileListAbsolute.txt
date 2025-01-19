@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\math-class\math-class\bin\Debug\net8.0\math-class.exe
+C:\Users\LENOVO\source\repos\math-class\math-class\bin\Debug\net8.0\math-class.deps.json
+C:\Users\LENOVO\source\repos\math-class\math-class\bin\Debug\net8.0\math-class.runtimeconfig.json
+C:\Users\LENOVO\source\repos\math-class\math-class\bin\Debug\net8.0\math-class.dll
+C:\Users\LENOVO\source\repos\math-class\math-class\bin\Debug\net8.0\math-class.pdb
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.dll
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\refint\math-class.dll
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.pdb
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\math-class.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\math-class\math-class\obj\Debug\net8.0\ref\math-class.dll

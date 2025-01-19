@@ -1,0 +1,15 @@
+Biodata:
+Name: John Doe, Age: 25, Gender: Male
+Hobbies (using for loop):
+Hobby 1: Reading
+Hobby 2: Traveling
+Hobby 3: Cooking
+Hobbies (using while loop):
+Hobby 1: Reading
+Hobby 2: Traveling
+Hobby 3: Cooking
+Gender message:
+Person is male.
+Age check:
+John Doe is an adult.
+Comparison: 5 < 10 is True

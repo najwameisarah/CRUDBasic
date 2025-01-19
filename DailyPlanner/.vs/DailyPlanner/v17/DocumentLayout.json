@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\C#\\DailyPlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE879831-2C83-42C6-93C0-BC7554199638}|DailyPlanner\\DailyPlanner.csproj|c:\\users\\lenovo\\c#\\dailyplanner\\dailyplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BE879831-2C83-42C6-93C0-BC7554199638}|DailyPlanner\\DailyPlanner.csproj|solutionrelative:dailyplanner\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\C#\\DailyPlanner\\DailyPlanner\\Form1.cs",
+              "RelativeDocumentMoniker": "DailyPlanner\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\C#\\DailyPlanner\\DailyPlanner\\Form1.cs [Design]",
+              "RelativeToolTip": "DailyPlanner\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T07:20:18.36Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

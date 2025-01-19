@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\UHPAK_ARROH1.exe.config
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\UHPAK_ARROH1.exe
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\UHPAK_ARROH1.pdb
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_AR.75A7F4B5.Up2Date
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.exe
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.pdb
+C:\Users\LENOVO\source\repos\UHPAK_ARROH1\UHPAK_ARROH1\obj\Debug\UHPAK_ARROH1.Form1.resources

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6B19F4-A94D-4C25-8B9A-333263C1CE97}|operator\\operator.csproj|c:\\users\\lenovo\\source\\repos\\operator\\operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6B19F4-A94D-4C25-8B9A-333263C1CE97}|operator\\operator.csproj|solutionrelative:operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6B19F4-A94D-4C25-8B9A-333263C1CE97}|operator\\operator.csproj|c:\\users\\lenovo\\source\\repos\\operator\\operator\\operator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7E6B19F4-A94D-4C25-8B9A-333263C1CE97}|operator\\operator.csproj|solutionrelative:operator\\operator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "operator.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\operator\\operator\\operator.csproj",
+              "RelativeDocumentMoniker": "operator\\operator.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\operator\\operator\\operator.csproj",
+              "RelativeToolTip": "operator\\operator.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T03:06:47.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\operator\\operator\\Program.cs",
+              "RelativeDocumentMoniker": "operator\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\operator\\operator\\Program.cs",
+              "RelativeToolTip": "operator\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T03:06:28.378Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

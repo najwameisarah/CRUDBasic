@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\najwa file\\KonversiData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B49D6A4-64A1-472D-B238-1FD79BC3A63D}|KonversiData\\KonversiData.csproj|c:\\users\\lenovo\\source\\repos\\najwa file\\konversidata\\konversidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B49D6A4-64A1-472D-B238-1FD79BC3A63D}|KonversiData\\KonversiData.csproj|solutionrelative:konversidata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B49D6A4-64A1-472D-B238-1FD79BC3A63D}|KonversiData\\KonversiData.csproj|c:\\users\\lenovo\\source\\repos\\najwa file\\konversidata\\konversidata\\konversidata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B49D6A4-64A1-472D-B238-1FD79BC3A63D}|KonversiData\\KonversiData.csproj|solutionrelative:konversidata\\konversidata.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KonversiData.csproj",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\najwa file\\KonversiData\\KonversiData\\KonversiData.csproj",
+              "RelativeDocumentMoniker": "KonversiData\\KonversiData.csproj",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\najwa file\\KonversiData\\KonversiData\\KonversiData.csproj",
+              "RelativeToolTip": "KonversiData\\KonversiData.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T02:50:12.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\najwa file\\KonversiData\\KonversiData\\Program.cs",
+              "RelativeDocumentMoniker": "KonversiData\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\najwa file\\KonversiData\\KonversiData\\Program.cs",
+              "RelativeToolTip": "KonversiData\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:06:16.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

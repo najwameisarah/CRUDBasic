@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\cobaCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34157BB0-EA28-47CA-B615-98871F812A95}|cobaCrud\\cobaCrud.csproj|c:\\users\\lenovo\\source\\repos\\cobacrud\\cobacrud\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{34157BB0-EA28-47CA-B615-98871F812A95}|cobaCrud\\cobaCrud.csproj|solutionrelative:cobacrud\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34157BB0-EA28-47CA-B615-98871F812A95}|cobaCrud\\cobaCrud.csproj|c:\\users\\lenovo\\source\\repos\\cobacrud\\cobacrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{34157BB0-EA28-47CA-B615-98871F812A95}|cobaCrud\\cobaCrud.csproj|solutionrelative:cobacrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\cobaCrud\\cobaCrud\\Model1.edmx",
+              "RelativeDocumentMoniker": "cobaCrud\\Model1.edmx",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\cobaCrud\\cobaCrud\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "cobaCrud\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-20T13:25:57.278Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\cobaCrud\\cobaCrud\\Form1.cs",
+              "RelativeDocumentMoniker": "cobaCrud\\Form1.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\cobaCrud\\cobaCrud\\Form1.cs [Design]",
+              "RelativeToolTip": "cobaCrud\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:14:57.51Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\Hi.exe.config
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\Hi.exe
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\Hi.pdb
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\Hi\Hi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.csproj.Up2Date
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.exe
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.pdb
+C:\Users\LENOVO\source\repos\Hi\Hi\obj\Debug\Hi.Form1.resources

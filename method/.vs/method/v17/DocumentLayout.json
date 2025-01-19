@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7F7FE88-C7F6-4595-A8BF-E3AA8FCD7591}|method\\method.csproj|c:\\users\\lenovo\\source\\repos\\method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7F7FE88-C7F6-4595-A8BF-E3AA8FCD7591}|method\\method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\method\\method\\Program.cs",
+              "RelativeDocumentMoniker": "method\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\method\\method\\Program.cs",
+              "RelativeToolTip": "method\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:48:50.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\conditional operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA70CCA5-2FDC-439B-94C9-7C89439C77D4}|conditional operator\\conditional operator.csproj|c:\\users\\lenovo\\source\\repos\\conditional operator\\conditional operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA70CCA5-2FDC-439B-94C9-7C89439C77D4}|conditional operator\\conditional operator.csproj|solutionrelative:conditional operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\conditional operator\\conditional operator\\Program.cs",
+              "RelativeDocumentMoniker": "conditional operator\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\conditional operator\\conditional operator\\Program.cs",
+              "RelativeToolTip": "conditional operator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T19:30:00.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

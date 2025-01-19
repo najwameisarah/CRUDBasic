@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\bin\Debug\net8.0\KonversiData.exe
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\bin\Debug\net8.0\KonversiData.deps.json
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\bin\Debug\net8.0\KonversiData.runtimeconfig.json
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\bin\Debug\net8.0\KonversiData.dll
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\bin\Debug\net8.0\KonversiData.pdb
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.dll
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\refint\KonversiData.dll
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.pdb
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\KonversiData.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\najwa file\KonversiData\KonversiData\obj\Debug\net8.0\ref\KonversiData.dll

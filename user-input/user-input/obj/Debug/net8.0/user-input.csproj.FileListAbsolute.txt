@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\user-input\user-input\bin\Debug\net8.0\user-input.exe
+C:\Users\LENOVO\source\repos\user-input\user-input\bin\Debug\net8.0\user-input.deps.json
+C:\Users\LENOVO\source\repos\user-input\user-input\bin\Debug\net8.0\user-input.runtimeconfig.json
+C:\Users\LENOVO\source\repos\user-input\user-input\bin\Debug\net8.0\user-input.dll
+C:\Users\LENOVO\source\repos\user-input\user-input\bin\Debug\net8.0\user-input.pdb
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.dll
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\refint\user-input.dll
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.pdb
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\user-input.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\user-input\user-input\obj\Debug\net8.0\ref\user-input.dll

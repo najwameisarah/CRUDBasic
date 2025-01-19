@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\UHCRUD.exe.config
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\UHCRUD.exe
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\UHCRUD.pdb
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.csproj.Up2Date
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.exe
+C:\Users\LENOVO\source\repos\UHCRUD\UHCRUD\obj\Debug\UHCRUD.pdb

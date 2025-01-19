@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\cobafile\cobafile\bin\Debug\net8.0\cobafile.exe
+C:\Users\LENOVO\source\repos\cobafile\cobafile\bin\Debug\net8.0\cobafile.deps.json
+C:\Users\LENOVO\source\repos\cobafile\cobafile\bin\Debug\net8.0\cobafile.runtimeconfig.json
+C:\Users\LENOVO\source\repos\cobafile\cobafile\bin\Debug\net8.0\cobafile.dll
+C:\Users\LENOVO\source\repos\cobafile\cobafile\bin\Debug\net8.0\cobafile.pdb
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.dll
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\refint\cobafile.dll
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.pdb
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\cobafile.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\cobafile\cobafile\obj\Debug\net8.0\ref\cobafile.dll

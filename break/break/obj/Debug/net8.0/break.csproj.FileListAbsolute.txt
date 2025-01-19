@@ -1,0 +1,4 @@
+C:\Users\LENOVO\source\repos\break\break\obj\Debug\net8.0\break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\break\break\obj\Debug\net8.0\break.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\break\break\obj\Debug\net8.0\break.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\break\break\obj\Debug\net8.0\break.csproj.CoreCompileInputs.cache

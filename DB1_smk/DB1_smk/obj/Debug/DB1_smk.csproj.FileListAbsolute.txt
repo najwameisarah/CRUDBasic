@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\DB1_smk.exe.config
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\DB1_smk.exe
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\DB1_smk.pdb
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.csproj.Up2Date
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.exe
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.pdb
+C:\Users\LENOVO\source\repos\DB1_smk\DB1_smk\obj\Debug\DB1_smk.Form1.resources

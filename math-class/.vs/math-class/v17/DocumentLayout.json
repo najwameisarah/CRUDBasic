@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\math-class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F674B714-39B4-4AA9-8188-84DD0D9FD5F1}|math-class\\math-class.csproj|c:\\users\\lenovo\\source\\repos\\math-class\\math-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F674B714-39B4-4AA9-8188-84DD0D9FD5F1}|math-class\\math-class.csproj|solutionrelative:math-class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\math-class\\math-class\\Program.cs",
+              "RelativeDocumentMoniker": "math-class\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\math-class\\math-class\\Program.cs",
+              "RelativeToolTip": "math-class\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:48:03.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

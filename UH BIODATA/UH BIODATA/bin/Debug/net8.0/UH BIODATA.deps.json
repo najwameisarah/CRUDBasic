@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UH BIODATA/1.0.0": {
+        "runtime": {
+          "UH BIODATA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UH BIODATA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\UlanganPkArroh.exe.config
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\UlanganPkArroh.exe
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\UlanganPkArroh.pdb
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganP.341FAAA1.Up2Date
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.exe
+C:\Users\LENOVO\source\repos\UlanganPkArroh\UlanganPkArroh\obj\Debug\UlanganPkArroh.pdb

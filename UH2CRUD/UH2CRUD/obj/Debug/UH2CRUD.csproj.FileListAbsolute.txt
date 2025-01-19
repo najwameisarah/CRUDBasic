@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\UH2CRUD.exe.config
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\UH2CRUD.exe
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\UH2CRUD.pdb
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.csproj.Up2Date
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.exe
+C:\Users\LENOVO\source\repos\UH2CRUD\UH2CRUD\obj\Debug\UH2CRUD.pdb

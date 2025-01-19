@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\iseng2file\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CACC83A9-C0D7-47F9-8877-6BE3F186339B}|iseng2file\\iseng2file.csproj|c:\\users\\lenovo\\source\\repos\\iseng2file\\iseng2file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CACC83A9-C0D7-47F9-8877-6BE3F186339B}|iseng2file\\iseng2file.csproj|solutionrelative:iseng2file\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\iseng2file\\iseng2file\\Program.cs",
+              "RelativeDocumentMoniker": "iseng2file\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\iseng2file\\iseng2file\\Program.cs",
+              "RelativeToolTip": "iseng2file\\Program.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T12:50:19.27Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

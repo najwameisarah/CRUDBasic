@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\typecasting\typecasting\bin\Debug\net8.0\typecasting.exe
+C:\Users\LENOVO\source\repos\typecasting\typecasting\bin\Debug\net8.0\typecasting.deps.json
+C:\Users\LENOVO\source\repos\typecasting\typecasting\bin\Debug\net8.0\typecasting.runtimeconfig.json
+C:\Users\LENOVO\source\repos\typecasting\typecasting\bin\Debug\net8.0\typecasting.dll
+C:\Users\LENOVO\source\repos\typecasting\typecasting\bin\Debug\net8.0\typecasting.pdb
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.dll
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\refint\typecasting.dll
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.pdb
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\typecasting.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\typecasting\typecasting\obj\Debug\net8.0\ref\typecasting.dll

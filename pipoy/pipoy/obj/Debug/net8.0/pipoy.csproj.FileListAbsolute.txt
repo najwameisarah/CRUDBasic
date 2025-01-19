@@ -1,0 +1,4 @@
+C:\Users\LENOVO\source\repos\pipoy\pipoy\obj\Debug\net8.0\pipoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\pipoy\pipoy\obj\Debug\net8.0\pipoy.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\pipoy\pipoy\obj\Debug\net8.0\pipoy.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\pipoy\pipoy\obj\Debug\net8.0\pipoy.csproj.CoreCompileInputs.cache

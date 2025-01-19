@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\bin\Debug\net8.0\masihgaterima.exe
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\bin\Debug\net8.0\masihgaterima.deps.json
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\bin\Debug\net8.0\masihgaterima.runtimeconfig.json
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\bin\Debug\net8.0\masihgaterima.dll
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\bin\Debug\net8.0\masihgaterima.pdb
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.dll
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\refint\masihgaterima.dll
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.pdb
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\masihgaterima.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\masihgaterima\masihgaterima\obj\Debug\net8.0\ref\masihgaterima.dll

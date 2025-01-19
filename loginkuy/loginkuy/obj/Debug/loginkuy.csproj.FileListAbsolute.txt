@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Debug\loginkuy.exe
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Debug\loginkuy.pdb
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.LOGIN.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.FUtama.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.shape.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.Temperatur.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.exe
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Debug\loginkuy.pdb

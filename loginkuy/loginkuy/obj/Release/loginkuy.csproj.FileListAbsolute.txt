@@ -1,0 +1,17 @@
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.LOGIN.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.FUtama.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.shape.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.Temperatur.resources
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Release\loginkuy.exe.manifest
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Release\loginkuy.application
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Release\loginkuy.exe
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\bin\Release\loginkuy.pdb
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.TrustInfo.xml
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.exe.manifest
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.application
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.exe
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.pdb
+C:\Users\LENOVO\source\repos\loginkuy\loginkuy\obj\Release\loginkuy.Properties.Resources.resources

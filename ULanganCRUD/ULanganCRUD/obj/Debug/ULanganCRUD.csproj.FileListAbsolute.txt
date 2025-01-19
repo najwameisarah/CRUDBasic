@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\ULanganCRUD.exe.config
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\ULanganCRUD.exe
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\ULanganCRUD.pdb
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganC.3DD0D7C8.Up2Date
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.exe
+C:\Users\LENOVO\source\repos\ULanganCRUD\ULanganCRUD\obj\Debug\ULanganCRUD.pdb

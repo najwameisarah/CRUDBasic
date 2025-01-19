@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\variable\variable\bin\Debug\net8.0\variable.exe
+C:\Users\LENOVO\source\repos\variable\variable\bin\Debug\net8.0\variable.deps.json
+C:\Users\LENOVO\source\repos\variable\variable\bin\Debug\net8.0\variable.runtimeconfig.json
+C:\Users\LENOVO\source\repos\variable\variable\bin\Debug\net8.0\variable.dll
+C:\Users\LENOVO\source\repos\variable\variable\bin\Debug\net8.0\variable.pdb
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.dll
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\refint\variable.dll
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.pdb
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\variable.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\variable\variable\obj\Debug\net8.0\ref\variable.dll

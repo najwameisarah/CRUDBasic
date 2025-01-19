@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="DB_SisiwaModelStoreContainer" CdmEntityContainer="DB_SisiwaEntities">
+    <EntitySetMapping Name="students">
+      <EntityTypeMapping TypeName="DB_SisiwaModel.student">
+        <MappingFragment StoreEntitySet="student">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nama" ColumnName="nama" />
+          <ScalarProperty Name="kelas" ColumnName="kelas" />
+          <ScalarProperty Name="jenis_kelamin" ColumnName="jenis_kelamin" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
